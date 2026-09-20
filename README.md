@@ -19,8 +19,7 @@
   <!-- Portfolio / Website Clickbar -->
    ### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
   <a href="https://portfolio-web-six-murex.vercel.app/" target="_blank" style="text-decoration: none; color: inherit;">
-    <img src="https://githubusercontent.com" width="24px" style="vertical-align: middle; margin-right: 8px;">
-    <b>Sowmajit Kar | Portfolio</b>
+    
   </a>
 </p>
 
