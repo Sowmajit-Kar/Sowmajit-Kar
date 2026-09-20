@@ -16,11 +16,13 @@
 
 - 💬 Ask me about **react vue**
  <p align="center">
-  <!-- Portfolio / Website -->
-  <a href="https://portfolio-web-six-murex.vercel.app/" target="_blank">
-    <img src="https://shields.io" alt="Sowmajit Kar Portfolio" height="40"/>
+  <!-- Portfolio / Website Clickbar -->
+  <a href="https://portfolio-web-six-murex.vercel.app/" target="_blank" style="text-decoration: none; color: inherit;">
+    <img src="https://githubusercontent.com" width="24px" style="vertical-align: middle; margin-right: 8px;">
+    <b>Sowmajit Kar | Portfolio</b>
   </a>
- </p>
+</p>
+
 
 - 📫 How to reach me **kar893216@gmail.com**
 
