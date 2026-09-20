@@ -15,6 +15,12 @@
 - 👯 I’m looking to collaborate 
 
 - 💬 Ask me about **react vue**
+ <p align="center">
+  <!-- Portfolio / Website -->
+  <a href="https://portfolio-web-six-murex.vercel.app/" target="_blank">
+    <img src="https://shields.io" alt="Sowmajit Kar Portfolio" height="40"/>
+  </a>
+ </p>
 
 - 📫 How to reach me **kar893216@gmail.com**
 
